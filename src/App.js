@@ -4,23 +4,23 @@ import './App.css';
 export default class App extends Component {
 
   msgStyle1 = {
-    fontSize:"24pt",
-    color:"#900",
-    margin:"20px 0px",
-    padding:"5px",
-    borderBottom:"2px solid #900"
+    fontSize: "24pt",
+    color: "#900",
+    margin: "20px 0px",
+    padding: "5px",
+    borderBottom: "2px solid #900"
   }
   msgStyle2 = {
-    fontSize:"20pt",
-    color:"white",
-    backgroundColor:"#900",
-    margin:"20px 0px",
-    padding:"5px",
-    borderBottom:"2px solid #900"
+    fontSize: "20pt",
+    color: "white",
+    backgroundColor: "#900",
+    margin: "20px 0px",
+    padding: "5px",
+    borderBottom: "2px solid #900"
   }
   btnStyle = {
-    fontSize:"16pt",
-    padding:"10px"
+    fontSize: "16pt",
+    padding: "10px"
   }
 
   constructor (props){
